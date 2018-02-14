@@ -1,5 +1,7 @@
 # SnailTracer - Pushing the EVM to its knees
 
+![SnailTracer](https://raw.githubusercontent.com/karalabe/snailtracer/master/snailtracer.png)
+
 # Acknowledgements
 
 The SnailTracer project is an extended Solidity port of [Kevin Beason's `smallpt`](http://www.kevinbeason.com/smallpt/)
